@@ -9,9 +9,8 @@
       <File FileName="N1TipCalc.Droid/Setup.cs" Line="1" Column="1" />
       <File FileName="N1TipCalc/App.cs" Line="17" Column="2" />
       <File FileName="TicCalc.Touch/AppDelegate.cs" Line="17" Column="3" />
-      <File FileName="TicCalc.Touch/Views/FirstView.cs" Line="23" Column="45" />
+      <File FileName="TicCalc.Touch/Views/FirstView.cs" Line="67" Column="4" />
       <File FileName="TicCalc.Touch/Setup.cs" Line="10" Column="6" />
-      <File FileName="TicCalc.Touch/AppDelegate.cs.txt" Line="34" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
