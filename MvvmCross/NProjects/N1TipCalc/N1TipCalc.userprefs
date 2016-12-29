@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{BDF29563-6E84-411D-AFA0-BF4DD8B98FF6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="N1TipCalc Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="N1TipCalc/ViewModels/FirstViewModel.cs">
     <Files>
-      <File FileName="N1TipCalc/ViewModels/FirstViewModel.cs" Line="19" Column="21" />
+      <File FileName="N1TipCalc/ViewModels/FirstViewModel.cs" Line="25" Column="28" />
       <File FileName="N1TipCalc/Services/ICalcuationService.cs" Line="4" Column="37" />
       <File FileName="N1TipCalc/Services/CalcuationService.cs" Line="12" Column="41" />
       <File FileName="N1TipCalc.Droid/SplashScreen.cs" Line="1" Column="1" />
       <File FileName="N1TipCalc.Droid/Views/FirstView.cs" Line="1" Column="1" />
       <File FileName="N1TipCalc.Droid/Setup.cs" Line="1" Column="1" />
       <File FileName="N1TipCalc/App.cs" Line="17" Column="2" />
-      <File FileName="N1TipCalc Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
