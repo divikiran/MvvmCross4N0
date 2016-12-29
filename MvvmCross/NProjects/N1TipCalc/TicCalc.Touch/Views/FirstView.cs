@@ -65,16 +65,6 @@ namespace TicCalc.Touch.Views
 
 			set.Apply();
 
-
-
-
-
-
-
-            //var set = this.CreateBindingSet<FirstView, N1TipCalc.ViewModels.FirstViewModel>();
-            //set.Bind(label1).To(vm => vm.Hello);
-            ////set.Bind(TextField).To(vm => vm.Hello);
-            //set.Apply();
         }
     }
 }
