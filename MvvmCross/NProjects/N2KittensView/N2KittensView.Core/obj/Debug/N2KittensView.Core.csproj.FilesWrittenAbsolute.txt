@@ -1,0 +1,9 @@
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/N2KittensView.Core.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/N2KittensView.Core.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/obj/Debug/N2KittensView.Core.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/obj/Debug/N2KittensView.Core.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/MvvmCross.Core.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/MvvmCross.Localization.dll
