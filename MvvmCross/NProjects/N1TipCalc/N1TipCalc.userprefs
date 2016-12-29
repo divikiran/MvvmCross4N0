@@ -1,5 +1,6 @@
-﻿<Properties StartupConfiguration="{BDF29563-6E84-411D-AFA0-BF4DD8B98FF6}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TicCalc.Touch/Setup.cs">
+﻿<Properties StartupConfiguration="{1BE96DCF-3D5B-4ADA-973A-997FF0B81FBE}|Default">
+  <MonoDevelop.Ide.ItemProperties.TicCalc.Touch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B98925D3-94F6-4049-9C96-700892F70C03" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TicCalc.Touch/Views/FirstView.cs">
     <Files>
       <File FileName="N1TipCalc/Services/ICalcuationService.cs" Line="4" Column="37" />
       <File FileName="N1TipCalc/Services/CalcuationService.cs" Line="12" Column="41" />
@@ -7,9 +8,10 @@
       <File FileName="N1TipCalc.Droid/Views/FirstView.cs" Line="7" Column="38" />
       <File FileName="N1TipCalc.Droid/Setup.cs" Line="1" Column="1" />
       <File FileName="N1TipCalc/App.cs" Line="17" Column="2" />
-      <File FileName="TicCalc.Touch/AppDelegate.cs" Line="11" Column="30" />
-      <File FileName="TicCalc.Touch/Views/FirstView.cs" Line="12" Column="43" />
-      <File FileName="TicCalc.Touch/Setup.cs" Line="20" Column="3" />
+      <File FileName="TicCalc.Touch/AppDelegate.cs" Line="17" Column="3" />
+      <File FileName="TicCalc.Touch/Views/FirstView.cs" Line="23" Column="45" />
+      <File FileName="TicCalc.Touch/Setup.cs" Line="10" Column="6" />
+      <File FileName="TicCalc.Touch/AppDelegate.cs.txt" Line="34" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
