@@ -19,7 +19,6 @@ namespace N1TipCalc.ViewModels
 			_generosity = 20;
 			_subTotal = 100;
 			ReCalc();
-
 		}
 
 		private double _subTotal;
