@@ -1,0 +1,9 @@
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile259.AssemblyAttribute.cs
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/bin/Debug/N1TipCalc.dll.mdb
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/bin/Debug/N1TipCalc.dll
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/obj/Debug/N1TipCalc.dll
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/obj/Debug/N1TipCalc.dll.mdb
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/bin/Debug/MvvmCross.Platform.dll
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/bin/Debug/MvvmCross.Core.dll
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/bin/Debug/MvvmCross.Binding.dll
+/Users/neuuser/Projects/MvvmCross/NProjects/N1TipCalc/N1TipCalc/bin/Debug/MvvmCross.Localization.dll
