@@ -4,7 +4,7 @@ using MvvmCross.Droid.Views;
 
 namespace N1TipCalc.Droid.Views
 {
-    [Activity(Label = "View for FirstViewModel")]
+    [Activity(Label = "Tip Calculator")]
     public class FirstView : MvxActivity
     {
         protected override void OnCreate(Bundle bundle)

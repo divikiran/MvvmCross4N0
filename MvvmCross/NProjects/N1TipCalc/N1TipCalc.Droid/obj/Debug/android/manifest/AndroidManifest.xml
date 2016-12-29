@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:allowBackup="true" android:icon="@mipmap/icon" android:label="@string/app_name" android:name="android.app.Application" android:debuggable="true">
-    <activity android:label="View for FirstViewModel" android:name="md5b44ab35a5ae080381390e13d7ab934ff.FirstView" />
+    <activity android:label="Tip Calculator" android:name="md5b44ab35a5ae080381390e13d7ab934ff.FirstView" />
     <activity android:icon="@mipmap/icon" android:label="N1TipCalc" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md5b28bd8a433370778993c23b6a5b696fa.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
