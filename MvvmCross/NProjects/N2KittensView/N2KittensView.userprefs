@@ -1,8 +1,9 @@
-﻿<Properties StartupConfiguration="{DDA70B50-6640-446C-B430-6282186B8AA2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="N2KittensView.Touch/Views/FirstView.cs">
+﻿<Properties StartupConfiguration="{EB1C0AFE-C9EA-4AC2-888A-496110A19470}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="N2KittensView.Droid/Setup.cs">
     <Files>
       <File FileName="N2KittensView.Touch/AppDelegate.cs" Line="9" Column="25" />
-      <File FileName="N2KittensView.Touch/Views/FirstView.cs" Line="16" Column="56" />
+      <File FileName="N2KittensView.Touch/Views/FirstView.cs" Line="23" Column="1" />
+      <File FileName="N2KittensView.Droid/Setup.cs" Line="16" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +11,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.N2KittensView.Touch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6D90908F-BAC3-44E0-A2FE-1FB178C7C5B5" />
+  <MonoDevelop.Ide.ItemProperties.N2KittensView.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.N2KittensView.Touch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B98925D3-94F6-4049-9C96-700892F70C03" />
 </Properties>

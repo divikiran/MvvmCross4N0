@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2KittensView.Core", "N2Kit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2KittensView.Touch", "N2KittensView.Touch\N2KittensView.Touch.csproj", "{DDA70B50-6640-446C-B430-6282186B8AA2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N2KittensView.Droid", "N2KittensView.Droid\N2KittensView.Droid.csproj", "{EB1C0AFE-C9EA-4AC2-888A-496110A19470}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,5 +41,17 @@ Global
 		{DDA70B50-6640-446C-B430-6282186B8AA2}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 		{DDA70B50-6640-446C-B430-6282186B8AA2}.Debug|iPhone.ActiveCfg = Debug|iPhone
 		{DDA70B50-6640-446C-B430-6282186B8AA2}.Debug|iPhone.Build.0 = Debug|iPhone
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Release|iPhone.Build.0 = Release|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{EB1C0AFE-C9EA-4AC2-888A-496110A19470}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 EndGlobal
