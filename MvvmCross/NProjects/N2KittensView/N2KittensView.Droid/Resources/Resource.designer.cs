@@ -125,7 +125,10 @@ namespace N2KittensView.Droid
 			public const int FirstView = 2130968576;
 			
 			// aapt resource value: 0x7f040001
-			public const int SplashScreen = 2130968577;
+			public const int Item_Kitten = 2130968577;
+			
+			// aapt resource value: 0x7f040002
+			public const int SplashScreen = 2130968578;
 			
 			static Layout()
 			{

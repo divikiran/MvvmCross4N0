@@ -16,3 +16,8 @@
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/MvvmCross.Localization.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/N2KittensView.Core.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/N2KittensView.Core.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.File.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.File.iOS.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/System.Collections.Immutable.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.DownloadCache.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/bin/iPhoneSimulator/Debug/MvvmCross.Plugins.DownloadCache.iOS.dll

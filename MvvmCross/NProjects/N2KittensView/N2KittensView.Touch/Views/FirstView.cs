@@ -1,22 +1,28 @@
+﻿using System;
+using Foundation;
 using MvvmCross.Binding.BindingContext;
+using MvvmCross.Binding.iOS.Views;
 using MvvmCross.iOS.Views;
+using N2KittensView.Core.ViewModels;
 
-namespace N2KittensView.Touch.Views
+namespace N2KittensView.Touch
 {
-    public partial class FirstView : MvxViewController
-    {
-        public FirstView() : base("FirstView", null)
-        {
-        }
+	[Register("FirstView")]
+	public class FirstView : MvxTableViewController
+	{
+		public override void ViewDidLoad()
+		{
+			base.ViewDidLoad();
 
-        public override void ViewDidLoad()
-        {
-            base.ViewDidLoad();
+			var source = new MvxStandardTableViewSource(TableView, "TitleText Name;ImageUrl ImageUrl;Text Price");
+			TableView.Source = source;
 
-            var set = this.CreateBindingSet<FirstView, Core.ViewModels.FirstViewModel>();
-            set.Bind(Label).To(vm => vm.Hello);
-            set.Bind(TextField).To(vm => vm.Hello);
-            set.Apply();
-        }
-    }
+			var set = this.CreateBindingSet<FirstView, FirstViewModel>();
+			set.Bind(source).To(v => v.Kittens);
+			set.Apply();
+
+			TableView.ReloadData();
+
+		}
+	}
 }

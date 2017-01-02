@@ -14,6 +14,12 @@
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Binding.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Binding.Droid.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Localization.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Plugins.File.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Plugins.File.Droid.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/System.Collections.Immutable.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/Xamarin.Android.Support.Compat.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Plugins.DownloadCache.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/MvvmCross.Plugins.DownloadCache.Droid.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/N2KittensView.Core.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/mscorlib.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/System.Net.Http.dll
@@ -35,3 +41,4 @@
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/System.IO.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/System.Globalization.dll
 /Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Droid/obj/Debug/android/assets/System.Net.Requests.dll

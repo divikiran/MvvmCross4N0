@@ -1,16 +1,25 @@
-﻿<Properties StartupConfiguration="{EB1C0AFE-C9EA-4AC2-888A-496110A19470}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="N2KittensView.Droid/Setup.cs">
+﻿<Properties StartupConfiguration="{DDA70B50-6640-446C-B430-6282186B8AA2}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="N2KittensView.Touch/AppDelegate.cs" Line="9" Column="25" />
-      <File FileName="N2KittensView.Touch/Views/FirstView.cs" Line="23" Column="1" />
-      <File FileName="N2KittensView.Droid/Setup.cs" Line="16" Column="24" />
+      <File FileName="N2KittensView.Droid/Views/FirstView.cs" Line="14" Column="10" />
+      <File FileName="N2KittensView.Core/ViewModels/FirstViewModel.cs" Line="6" Column="18" />
+      <File FileName="N2KittensView.Core/Services/IKittenGenesisService.cs" Line="6" Column="10" />
+      <File FileName="N2KittensView.Core/Services/KittenGenesisService.cs" Line="20" Column="31" />
+      <File FileName="N2KittensView.Touch/Setup.cs" Line="1" Column="1" />
+      <File FileName="N2KittensView.Core/App.cs" Line="8" Column="10" />
+      <File FileName="N2KittensView.Touch/Views/FirstView.cs" Line="14" Column="4" />
+      <File FileName="N2KittensView.Touch/AppDelegate.cs" Line="14" Column="8" />
+      <File FileName="N2KittensView.Touch/DebugTrace.cs" Line="1" Column="1" />
+      <File FileName="N2KittensView.Touch/AppDelegate.cs.txt" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/Views/FirstView.cs" line="32" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.N2KittensView.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.ItemProperties.N2KittensView.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus5_API24" />
   <MonoDevelop.Ide.ItemProperties.N2KittensView.Touch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B98925D3-94F6-4049-9C96-700892F70C03" />
 </Properties>

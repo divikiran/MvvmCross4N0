@@ -4,7 +4,7 @@ using MvvmCross.Droid.Views;
 
 namespace N2KittensView.Droid.Views
 {
-    [Activity(Label = "View for FirstViewModel")]
+    [Activity(Label = "Kitten Listview")]
     public class FirstView : MvxActivity
     {
         protected override void OnCreate(Bundle bundle)

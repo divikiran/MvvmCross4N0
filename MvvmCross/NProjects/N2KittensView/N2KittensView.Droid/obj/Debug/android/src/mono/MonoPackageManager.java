@@ -109,6 +109,12 @@ class MonoPackageManager_Resources {
 		"MvvmCross.Binding.dll",
 		"MvvmCross.Binding.Droid.dll",
 		"MvvmCross.Localization.dll",
+		"MvvmCross.Plugins.File.dll",
+		"MvvmCross.Plugins.File.Droid.dll",
+		"System.Collections.Immutable.dll",
+		"Xamarin.Android.Support.Compat.dll",
+		"MvvmCross.Plugins.DownloadCache.dll",
+		"MvvmCross.Plugins.DownloadCache.Droid.dll",
 		"N2KittensView.Core.dll",
 		"System.Threading.dll",
 		"System.Collections.dll",
@@ -125,6 +131,7 @@ class MonoPackageManager_Resources {
 		"System.IO.dll",
 		"System.Globalization.dll",
 		"System.Threading.Tasks.dll",
+		"System.Net.Requests.dll",
 	};
 	public static final String[] Dependencies = new String[]{
 	};

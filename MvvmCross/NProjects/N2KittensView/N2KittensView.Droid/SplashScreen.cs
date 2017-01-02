@@ -5,7 +5,7 @@ using MvvmCross.Droid.Views;
 namespace N2KittensView.Droid
 {
     [Activity(
-        Label = "N2KittensView.Droid"
+        Label = "N2KittensView Listview"
         , MainLauncher = true
         , Icon = "@mipmap/icon"
         , Theme = "@style/Theme.Splash"

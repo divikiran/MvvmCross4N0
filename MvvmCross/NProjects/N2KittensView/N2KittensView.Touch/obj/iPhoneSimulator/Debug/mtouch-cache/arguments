@@ -31,19 +31,29 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.3.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.4.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.3.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.4.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.3.0/lib/Xamarin.iOS10/MvvmCross.Core.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.4.0/lib/Xamarin.iOS10/MvvmCross.Core.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.3.0/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.4.0/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.3.0/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.4.0/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.3.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.4.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.3.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.4.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.File.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.File.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.File.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.File.iOS.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/System.Collections.Immutable.1.2.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.DownloadCache.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.DownloadCache.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.DownloadCache.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.DownloadCache.iOS.dll \
 	-r \
 	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/N2KittensView.Core.dll \
 	-r \
@@ -305,19 +315,29 @@
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.3.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.4.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.3.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Platform.4.4.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.3.0/lib/Xamarin.iOS10/MvvmCross.Core.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.4.0/lib/Xamarin.iOS10/MvvmCross.Core.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.3.0/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Core.4.4.0/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.3.0/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.4.0/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.3.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.4.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
 	-r \
-	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.3.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Binding.4.4.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.File.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.File.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.File.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.File.iOS.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/System.Collections.Immutable.1.2.0/lib/portable-net45+win8+wp8+wpa81/System.Collections.Immutable.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.DownloadCache.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.DownloadCache.dll \
+	-r \
+	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/packages/MvvmCross.Plugin.DownloadCache.4.4.0/lib/Xamarin.iOS10/MvvmCross.Plugins.DownloadCache.iOS.dll \
 	-r \
 	/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Core/bin/Debug/N2KittensView.Core.dll \
 	--target-framework \

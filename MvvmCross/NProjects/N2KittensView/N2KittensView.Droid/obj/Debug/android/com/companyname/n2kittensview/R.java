@@ -75,7 +75,8 @@ containing a value of this type.
     }
     public static final class layout {
         public static final int firstview=0x7f040000;
-        public static final int splashscreen=0x7f040001;
+        public static final int item_kitten=0x7f040001;
+        public static final int splashscreen=0x7f040002;
     }
     public static final class mipmap {
         public static final int icon=0x7f030000;
