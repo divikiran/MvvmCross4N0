@@ -1,22 +1,24 @@
 ﻿<Properties StartupConfiguration="{DDA70B50-6640-446C-B430-6282186B8AA2}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="N2KittensView.Touch/Views/FirstView.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="N2KittensView.Touch/Views/KittenCell.cs">
     <Files>
       <File FileName="N2KittensView.Droid/Views/FirstView.cs" Line="14" Column="10" />
-      <File FileName="N2KittensView.Core/ViewModels/FirstViewModel.cs" Line="6" Column="18" />
+      <File FileName="N2KittensView.Core/ViewModels/FirstViewModel.cs" Line="15" Column="34" />
       <File FileName="N2KittensView.Core/Services/IKittenGenesisService.cs" Line="6" Column="10" />
-      <File FileName="N2KittensView.Core/Services/KittenGenesisService.cs" Line="20" Column="31" />
+      <File FileName="N2KittensView.Core/Services/KittenGenesisService.cs" Line="10" Column="50" />
       <File FileName="N2KittensView.Touch/Setup.cs" Line="1" Column="1" />
       <File FileName="N2KittensView.Core/App.cs" Line="8" Column="10" />
-      <File FileName="N2KittensView.Touch/Views/FirstView.cs" Line="22" Column="16" />
+      <File FileName="N2KittensView.Touch/Views/FirstView.cs" Line="22" Column="39" />
       <File FileName="N2KittensView.Touch/AppDelegate.cs" Line="14" Column="8" />
       <File FileName="N2KittensView.Touch/DebugTrace.cs" Line="1" Column="1" />
       <File FileName="N2KittensView.Touch/AppDelegate.cs.txt" Line="1" Column="1" />
+      <File FileName="N2KittensView.Touch/Views/KittenCell.cs" Line="7" Column="13" />
+      <File FileName="N2KittensView.Touch/ViewController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/Views/FirstView.cs" line="32" column="1" />
+      <Breakpoint file="/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N2KittensView/N2KittensView.Touch/Views/FirstView.cs" line="34" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -14,7 +14,9 @@ namespace N2KittensView.Touch
 		{
 			base.ViewDidLoad();
 
-			var source = new MvxStandardTableViewSource(TableView, "TitleText Name;ImageUrl ImageUrl;Text Price");
+			//var source = new MvxStandardTableViewSource(TableView, "TitleText Name;ImageUrl ImageUrl;Text Price");
+			var source = new MvxSimpleTableViewSource(TableView, KittenCell.Key, KittenCell.Key);
+			TableView.RowHeight = 100;
 			TableView.Source = source;
 
 			var set = this.CreateBindingSet<FirstView, FirstViewModel>();

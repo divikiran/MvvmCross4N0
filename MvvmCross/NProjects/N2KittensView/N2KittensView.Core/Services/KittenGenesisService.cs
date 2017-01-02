@@ -7,7 +7,7 @@ namespace N2KittensView.Core
 	{
 
 		private readonly List<string> _names = new List<string>() {
-			"Divikiran",
+			"DivikiranDivikiranDivikiranDivikiranDivikiran",
 			"Anahi",
 			"Ani",
 			"Sanju"

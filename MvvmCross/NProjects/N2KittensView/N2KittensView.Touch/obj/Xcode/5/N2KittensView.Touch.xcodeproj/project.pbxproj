@@ -1,0 +1,274 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		7F621CFF0000000000000000 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 684363B00000000000000000 /* UIKit.framework */; };
+		ED59FACD0000000000000000 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 747C14090000000000000000 /* MapKit.framework */; };
+		2455E9B40000000000000000 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AB7802F00000000000000000 /* Foundation.framework */; };
+		5B51D89B0000000000000000 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E273F1D70000000000000000 /* CoreGraphics.framework */; };
+		ABFC3CCE0000000000000000 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 331E560A0000000000000000 /* Assets.xcassets */; };
+		6B63937A0000000000000000 /* Contents.json in Resources */ = {isa = PBXBuildFile; fileRef = F285ACB60000000000000000 /* Contents.json */; };
+		9CEC7DE60000000000000000 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 240E97220000000000000000 /* LaunchScreen.storyboard */; };
+		276CC0A40000000000000000 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE8ED9E00000000000000000 /* Main.storyboard */; };
+		339C18230000000000000000 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = BABE315F0000000000000000 /* Info.plist */; };
+		8DDCBEFE0000000000000000 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 14FED83A0000000000000000 /* Entitlements.plist */; };
+		666E51180000000000000000 /* KittenCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = ED906A540000000000000000 /* KittenCell.xib */; };
+		362EB5350000000000000000 /* ViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = BD50CE710000000000000000 /* ViewController.h */; };
+		906F5C100000000000000000 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1791754C0000000000000000 /* ViewController.m */; };
+		8589531A0000000000000000 /* KittenCell.h in Sources */ = {isa = PBXBuildFile; fileRef = CAB6C5600000000000000000 /* KittenCell.h */; };
+		C5566FFE0000000000000000 /* KittenCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C78893A0000000000000000 /* KittenCell.m */; };
+		C8B499800000000000000000 /* FirstView.h in Sources */ = {isa = PBXBuildFile; fileRef = 4FD6B2BC0000000000000000 /* FirstView.h */; };
+		73C9248B0000000000000000 /* FirstView.m in Sources */ = {isa = PBXBuildFile; fileRef = FAEB3DC70000000000000000 /* FirstView.m */; };
+		552BE4A20000000000000000 /* AppDelegate.h in Sources */ = {isa = PBXBuildFile; fileRef = DC4DFDDE0000000000000000 /* AppDelegate.h */; };
+		94F901860000000000000000 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C1B1AC20000000000000000 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D11F60340000000000000000 /* N2KittensView.Touch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "N2KittensView.Touch.app"; path = "N2KittensView.Touch.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		684363B00000000000000000 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "UIKit.framework"; path = "System/Library/Frameworks/UIKit.framework"; sourceTree = SDKROOT; };
+		747C14090000000000000000 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "MapKit.framework"; path = "System/Library/Frameworks/MapKit.framework"; sourceTree = SDKROOT; };
+		AB7802F00000000000000000 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "Foundation.framework"; path = "System/Library/Frameworks/Foundation.framework"; sourceTree = SDKROOT; };
+		E273F1D70000000000000000 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = "CoreGraphics.framework"; path = "System/Library/Frameworks/CoreGraphics.framework"; sourceTree = SDKROOT; };
+		331E560A0000000000000000 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = "Assets.xcassets"; path = "Assets.xcassets"; sourceTree = "<group>"; };
+		F285ACB60000000000000000 /* Contents.json */ = {isa = PBXFileReference; name = "Contents.json"; path = "Assets.xcassets/Contents.json"; sourceTree = "<group>"; };
+		240E97220000000000000000 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "LaunchScreen.storyboard"; path = "LaunchScreen.storyboard"; sourceTree = "<group>"; };
+		AE8ED9E00000000000000000 /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = "Main.storyboard"; path = "Main.storyboard"; sourceTree = "<group>"; };
+		BABE315F0000000000000000 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Info.plist"; path = "Info.plist"; sourceTree = "<group>"; };
+		14FED83A0000000000000000 /* Entitlements.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Entitlements.plist"; path = "Entitlements.plist"; sourceTree = "<group>"; };
+		ED906A540000000000000000 /* KittenCell.xib */ = {isa = PBXFileReference; name = "KittenCell.xib"; path = "Views/KittenCell.xib"; sourceTree = "<group>"; };
+		BD50CE710000000000000000 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "ViewController.h"; path = "ViewController.h"; sourceTree = "<group>"; };
+		1791754C0000000000000000 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "ViewController.m"; path = "ViewController.m"; sourceTree = "<group>"; };
+		CAB6C5600000000000000000 /* KittenCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "KittenCell.h"; path = "KittenCell.h"; sourceTree = "<group>"; };
+		4C78893A0000000000000000 /* KittenCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "KittenCell.m"; path = "KittenCell.m"; sourceTree = "<group>"; };
+		4FD6B2BC0000000000000000 /* FirstView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "FirstView.h"; path = "FirstView.h"; sourceTree = "<group>"; };
+		FAEB3DC70000000000000000 /* FirstView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "FirstView.m"; path = "FirstView.m"; sourceTree = "<group>"; };
+		DC4DFDDE0000000000000000 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "AppDelegate.h"; path = "AppDelegate.h"; sourceTree = "<group>"; };
+		1C1B1AC20000000000000000 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "AppDelegate.m"; path = "AppDelegate.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		CA630D300000000000000000 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7F621CFF0000000000000000 /* UIKit.framework in Frameworks */,
+				ED59FACD0000000000000000 /* MapKit.framework in Frameworks */,
+				2455E9B40000000000000000 /* Foundation.framework in Frameworks */,
+				5B51D89B0000000000000000 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3FE2CA720000000000000000 = {
+			isa = PBXGroup;
+			children = (
+				9C384C460000000000000000 /* N2KittensView.Touch */,
+				11B809880000000000000000 /* Frameworks */,
+				6E0D8B5C0000000000000000 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6E0D8B5C0000000000000000 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D11F60340000000000000000 /* N2KittensView.Touch.app */,
+			);
+			name = "Products";
+			sourceTree = "<group>";
+		};
+		11B809880000000000000000 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				684363B00000000000000000 /* UIKit.framework */,
+				747C14090000000000000000 /* MapKit.framework */,
+				AB7802F00000000000000000 /* Foundation.framework */,
+				E273F1D70000000000000000 /* CoreGraphics.framework */,
+			);
+			name = "Frameworks";
+			sourceTree = "<group>";
+		};
+		9C384C460000000000000000 /* N2KittensView.Touch */ = {
+			isa = PBXGroup;
+			children = (
+				DC4DFDDE0000000000000000 /* AppDelegate.h */,
+				331E560A0000000000000000 /* Assets.xcassets */,
+				14FED83A0000000000000000 /* Entitlements.plist */,
+				4FD6B2BC0000000000000000 /* FirstView.h */,
+				BABE315F0000000000000000 /* Info.plist */,
+				CAB6C5600000000000000000 /* KittenCell.h */,
+				240E97220000000000000000 /* LaunchScreen.storyboard */,
+				AE8ED9E00000000000000000 /* Main.storyboard */,
+				BD50CE710000000000000000 /* ViewController.h */,
+				59C137800000000000000000 /* Assets.xcassets */,
+				398CDEB70000000000000000 /* Supporting Files */,
+				BF65A96A0000000000000000 /* Views */,
+			);
+			name = "N2KittensView.Touch";
+			sourceTree = "<group>";
+		};
+		59C137800000000000000000 /* Assets.xcassets */ = {
+			isa = PBXGroup;
+			children = (
+				F285ACB60000000000000000 /* Contents.json */,
+			);
+			name = "Assets.xcassets";
+			sourceTree = "<group>";
+		};
+		BF65A96A0000000000000000 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED906A540000000000000000 /* KittenCell.xib */,
+			);
+			name = "Views";
+			sourceTree = "<group>";
+		};
+		398CDEB70000000000000000 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1C1B1AC20000000000000000 /* AppDelegate.m */,
+				FAEB3DC70000000000000000 /* FirstView.m */,
+				4C78893A0000000000000000 /* KittenCell.m */,
+				1791754C0000000000000000 /* ViewController.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E61FE5B00000000000000000 /* N2KittensView.Touch */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BB914800000000000000000 /* Build configuration list for PBXNativeTarget "N2KittensView.Touch" */;
+			buildPhases = (
+				ADDAA8400000000000000000 /* Sources */,
+				CA630D300000000000000000 /* Frameworks */,
+				BC1EDAB80000000000000000 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "N2KittensView.Touch";
+			productName = "N2KittensView.Touch";
+			productReference = D11F60340000000000000000 /* N2KittensView.Touch.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		B282204B0000000000000000 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 69E3D56A0000000000000000 /* Build configuration list for PBXProject "N2KittensView.Touch" */;
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 3FE2CA720000000000000000;
+			productRefGroup = 6E0D8B5C0000000000000000 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E61FE5B00000000000000000 /* N2KittensView.Touch */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		BC1EDAB80000000000000000 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ABFC3CCE0000000000000000 /* Assets.xcassets in Resources */,
+				6B63937A0000000000000000 /* Contents.json in Resources */,
+				9CEC7DE60000000000000000 /* LaunchScreen.storyboard in Resources */,
+				276CC0A40000000000000000 /* Main.storyboard in Resources */,
+				339C18230000000000000000 /* Info.plist in Resources */,
+				8DDCBEFE0000000000000000 /* Entitlements.plist in Resources */,
+				666E51180000000000000000 /* KittenCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ADDAA8400000000000000000 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				362EB5350000000000000000 /* ViewController.h in Sources */,
+				906F5C100000000000000000 /* ViewController.m in Sources */,
+				8589531A0000000000000000 /* KittenCell.h in Sources */,
+				C5566FFE0000000000000000 /* KittenCell.m in Sources */,
+				C8B499800000000000000000 /* FirstView.h in Sources */,
+				73C9248B0000000000000000 /* FirstView.m in Sources */,
+				552BE4A20000000000000000 /* AppDelegate.h in Sources */,
+				94F901860000000000000000 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3F173E020000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				SDKROOT = iphoneos;
+			};
+			name = MonoTouch;
+		};
+		980E96540000000000000000 /* MonoTouch */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = NO;
+				PRODUCT_NAME = "N2KittensView.Touch";
+				WRAPPER_EXTENSION = app;
+			};
+			name = MonoTouch;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		69E3D56A0000000000000000 /* Build configuration list for PBXProject "N2KittensView.Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F173E020000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+		3BB914800000000000000000 /* Build configuration list for PBXNativeTarget "N2KittensView.Touch" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				980E96540000000000000000 /* MonoTouch */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = MonoTouch;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = B282204B0000000000000000 /* Project object */;
+}
