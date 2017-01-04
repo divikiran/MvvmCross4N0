@@ -11,7 +11,7 @@
       <File FileName="N2KittensView.Touch/AppDelegate.cs" Line="14" Column="8" />
       <File FileName="N2KittensView.Touch/DebugTrace.cs" Line="1" Column="1" />
       <File FileName="N2KittensView.Touch/AppDelegate.cs.txt" Line="1" Column="1" />
-      <File FileName="N2KittensView.Touch/Views/KittenCell.cs" Line="7" Column="13" />
+      <File FileName="N2KittensView.Touch/Views/KittenCell.cs" Line="8" Column="1" />
       <File FileName="N2KittensView.Touch/ViewController.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

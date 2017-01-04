@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{BDDE4FD1-4C13-46FC-8B46-9C1B1D0E40AB}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="N5ICommand.Touch/Views/FirstView.cs" Line="17" Column="1" />
+      <File FileName="N5ICommand.Droid/Setup.cs" Line="25" Column="1" />
+      <File FileName="N5ICommand.Touch/AppDelegate.cs" Line="34" Column="1" />
+      <File FileName="N5ICommand.Touch/Setup.cs" Line="25" Column="9" />
+      <File FileName="N5ICommand.Touch/Main.cs" Line="8" Column="21" />
+      <File FileName="N5ICommand/ViewModels/FirstViewModel.cs" Line="32" Column="34" />
+      <File FileName="N5ICommand.Droid/Views/FirstView.cs" Line="15" Column="6" />
+      <File FileName="N5ICommand.Droid/Views/SecondView.cs" Line="13" Column="45" />
+      <File FileName="N5ICommand.Touch/Views/SecondView.cs" Line="19" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.N5ICommand.Touch PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B98925D3-94F6-4049-9C96-700892F70C03" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.N5ICommand.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus5_API24" />
+</Properties>

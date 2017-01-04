@@ -1,0 +1,9 @@
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/bin/Debug/N4ValueConverter.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/bin/Debug/N4ValueConverter.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/obj/Debug/N4ValueConverter.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/obj/Debug/N4ValueConverter.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/bin/Debug/MvvmCross.Platform.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/bin/Debug/MvvmCross.Core.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/bin/Debug/MvvmCross.Binding.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N4ValueConverter/N4ValueConverter/bin/Debug/MvvmCross.Localization.dll

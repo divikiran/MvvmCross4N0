@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1CA82DCB-46BA-46B3-85A6-17A1A816FBC9}|Default">
+  <MonoDevelop.Ide.ItemProperties.N4ValueConverter.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus5_API24" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="N4ValueConverter/ViewModels/FirstViewModel.cs">
+    <Files>
+      <File FileName="N4ValueConverter/ViewModels/FirstViewModel.cs" Line="7" Column="6" />
+      <File FileName="N4ValueConverter/Converters/StringReverseValueConverter.cs" Line="17" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

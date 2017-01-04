@@ -1,0 +1,9 @@
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/bin/Debug/N5ICommand.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/bin/Debug/N5ICommand.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/obj/Debug/N5ICommand.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/obj/Debug/N5ICommand.dll.mdb
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/bin/Debug/MvvmCross.Platform.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/bin/Debug/MvvmCross.Core.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/bin/Debug/MvvmCross.Binding.dll
+/Users/neuuser/Documents/GitHubAll/MvvmCross4N0/MvvmCross/NProjects/N5ICommand/N5ICommand/bin/Debug/MvvmCross.Localization.dll
